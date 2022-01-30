@@ -1,0 +1,81 @@
+Body{
+
+    background-image:url("https://media.istockphoto.com/photos/digital-eye-wave-lines-stock-background-stock-video-picture-id1226241649?b=1&k=20&m=1226241649&s=170667a&w=0&h=lXhD5bdn_YT50-ItctUnqB2WiGZ8Jye1GZHjvDsb2Xo=") ;
+background-size: cover;
+}
+
+
+
+h1{
+
+font-family:Cambria Math ;
+background-color: rgb(13, 233, 203);
+
+}
+
+h2{
+    font-family:Cambria Math ;
+    background-color: rgb(21, 233, 134);
+    position: relative;
+    margin-top: -22px;
+    
+}
+
+fieldset
+{
+
+background-color: rgba(0,0,0,.5);
+height: 100px;
+
+}
+
+
+button{
+
+
+text-align: center;
+margin-left: 605px;
+border: 4px solid rgb(255, 255, 255);
+font-family: Cambria 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+width: 90px;
+height: 39px;
+background-color: rgba(0,0,0,.5);
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+
+
+article{
+
+font-family:Cambria Math ;
+background-color:rgba(0,0,0,.5) ;
+color: whitesmoke; 
+font-size: 20px;;
+padding: 5px;
+border:4px solid  rgb(7, 169, 233);
+width: 500px;
+height: 93px;
+overflow: auto;
+position: relative;
+margin-left: 380px;
+
+}
+
+article:hover{
+
+    color: rgb(255, 251, 0);;
+}
+
+
+a{
+
+    font-family:Gabriola ;
+    font-size: 21px; 
+color: whitesmoke;
+}
+
+a:hover{
+
+    color: rgb(6, 248, 208);;
+}
